@@ -1,5 +1,7 @@
-# Hi!👋
-这是一款正在开发中的新的个人空间引擎  
-可作为个人小站，或者博客空间
+# NeHex Power For You!
+![logo](https://avatars.githubusercontent.com/u/245639787?s=200&v=4)
 
-目前正在开发中✨
+# Desc
+Nehex is new blog\personal space engine.
+
+Currently under development
