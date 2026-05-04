@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/4764cc37-7b6d-4fb4-99f1-ae597c84a3c8](https://avatars.githubusercontent.com/u/245639787?s=400&u=7bf241a76258c1a8194abfae7e03a2e2120c32d9&v=4)" />
+  <img src="https://avatars.githubusercontent.com/u/245639787" />
 </p>
 
 ---
